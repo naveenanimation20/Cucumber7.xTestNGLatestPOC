@@ -9,26 +9,7 @@ Maven 3.x
 
 # Project Structure
 
-├── src
-│   ├── main
-│   │   └── java
-│   │       └── com
-│   │           └── example
-│   │               └── pages
-│   │                   └── LoginPage.java      # Page Object class for Login Page
-│   └── test
-│       ├── java
-│       │   └── com
-│       │       └── example
-│       │           └── stepdefinitions
-│       │               └── LoginSteps.java     # Step definitions for Login.feature
-│       │           └── TestRunner.java         # Test runner class
-│       └── resources
-│           ├── features
-│           │   └── Login.feature              # Cucumber feature file
-│           └── testng.xml                     # TestNG configuration file
-├── pom.xml                                     # Maven POM file with dependencies and plugins
-└── README.md                                   # This README file
+         ![Screenshot 2023-03-28 at 2 16 19 PM](https://user-images.githubusercontent.com/6771652/228205287-5690cb46-0e90-43ba-ac0e-97fa85e7315d.png)
 
 
 # Usage
