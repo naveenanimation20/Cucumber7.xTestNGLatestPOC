@@ -3,12 +3,12 @@ Cucumber7.xTestNGLatestPOC
 
 This repository contains a Proof of Concept (POC) for running Cucumber tests in parallel using TestNG with Cucumber 7.x. The project demonstrates how to set up and configure your test framework to execute Cucumber scenarios in parallel with TestNG.
 
-Prerequisites
+# Prerequisites
 Java 8 or higher
 Maven 3.x
-Project Structure
 
-.
+# Project Structure
+
 ├── src
 │   ├── main
 │   │   └── java
@@ -31,6 +31,6 @@ Project Structure
 └── README.md                                   # This README file
 
 
-#Usage
+# Usage
 Clone the repository:
 git clone https://github.com/naveenanimation20/Cucumber7.xTestNGLatestPOC.git
