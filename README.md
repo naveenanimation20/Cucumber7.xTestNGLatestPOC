@@ -8,8 +8,8 @@ Java 8 or higher
 Maven 3.x
 
 # Project Structure
+<img width="430" alt="Screenshot 2023-03-28 at 7 16 17 AM" src="https://user-images.githubusercontent.com/6771652/228205470-92b24507-44c7-46a6-bef0-cc5a48c5e0d9.png">
 
-         ![Screenshot 2023-03-28 at 2 16 19 PM](https://user-images.githubusercontent.com/6771652/228205287-5690cb46-0e90-43ba-ac0e-97fa85e7315d.png)
 
 
 # Usage
