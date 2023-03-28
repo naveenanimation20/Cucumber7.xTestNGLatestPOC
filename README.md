@@ -19,7 +19,6 @@ git clone https://github.com/naveenanimation20/Cucumber7.xTestNGLatestPOC.git
 
 
 # Navigate to the project directory:
-bash
 cd Cucumber7.xTestNGLatestPOC
 
 # Run the tests with Maven:
