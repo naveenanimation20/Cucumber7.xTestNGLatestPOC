@@ -15,7 +15,7 @@ Maven 3.x
 
 # Usage
 Clone the repository:
-git clone https://github.com/naveenanimation20/Cucumber7.xTestNGLatestPOC.git
+``` git clone https://github.com/naveenanimation20/Cucumber7.xTestNGLatestPOC.git ```
 
 
 # Navigate to the project directory:
